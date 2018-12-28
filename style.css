@@ -1,5 +1,5 @@
 body {
-    font-family: 'Abel';
+    font-family: 'Abel', monospace;
     font-size: 18px;
 }
 
@@ -31,7 +31,7 @@ h2 {
 #image {
     position: relative;
     max-width: 100%;
-
+    display: block;
 }
 
 #img-caption {
